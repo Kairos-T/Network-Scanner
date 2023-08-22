@@ -44,6 +44,11 @@ python networkscanner.py
 ## Output
 The script outputs a list of open ports on the specified IP address along with their associated protocols.
 
+Sample Output:
+
+![image](https://github.com/Kairos-T/Network-Scanner/assets/80029462/1c0038ee-4bfc-4042-b97f-f465af748339)
+
+
 ## Dependencies
 - Python 3.x
 - Python pyfiglet library
